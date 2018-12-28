@@ -1,0 +1,24 @@
+{
+  "name": "time-formating",
+  "version": "1.0.5",
+  "description": "Time Format Conversion Plug-in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clearself/time-formater.git"
+  },
+  "keywords": [
+    "time-formating",
+    "时间转换",
+    "时间戳转换"
+  ],
+  "author": "clearself",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clearself/time-formater/issues"
+  },
+  "homepage": "https://github.com/clearself/time-formater#readme"
+}
